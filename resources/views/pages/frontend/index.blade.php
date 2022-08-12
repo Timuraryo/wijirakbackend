@@ -13,7 +13,7 @@ Wiji Rak
                 <div class="row">
                     <div class="col-lg-5">
                         <span>Rak,Software Kasir,</span>
-                        <h1>WIJIRAK</h1>
+                        <h1 style="color: white">WIJIRAK</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
                             incididunt ut labore et dolore</p>
                         <a href="#" class="primary-btn">Shop Now</a>
@@ -51,7 +51,7 @@ Wiji Rak
           @foreach ($categories as $category)
           <div class="col-lg-4">
             <div class="single-banner">
-                <img src="{{Storage::url($category->first()->image) }}" alt="">
+                <img src="{{Storage::url($category->image) }}" alt="">
                 <div class="inner-text">
                     <h4>{{ $category->name }}</h4>
                 </div>
@@ -102,7 +102,7 @@ Wiji Rak
                         </ul>
                     </div>
                     <div class="pi-text">
-                        <div class="catagory-name">{{ $category->name }}</div>
+                        <div class="catagory-name">{{ $product->categories->name}}</div>
                         <a href="#">
                             <h5>{{ $product->name }}</h5>
                         </a>

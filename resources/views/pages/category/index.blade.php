@@ -29,7 +29,7 @@
                                     <td>{{$item->id}}</td>
                                     <td>{{$item->name}}</td>
                                    <td>
-                                        <img src="{{ Storage::url($item->first()->image)}}" alt=""/>
+                                        <img src="{{ Storage::url($item->image)}}" alt=""/>
                                    </td>
                                     <td>
 
