@@ -1,7 +1,7 @@
 @extends('layouts.default')
 
 @section('title')
-    Shayna Admin
+    WIJIRAK ADMIN
 @endsection
 
 @section('content')
