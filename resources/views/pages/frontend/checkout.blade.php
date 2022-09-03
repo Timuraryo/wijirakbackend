@@ -61,7 +61,7 @@ Wiji Rak - Checkout
 
                         <div class="col-lg-6 mb-2">
                             <label for="email">Email<span>*</span></label>
-                            <input disabled type="text" id="email" name="email" value="{{ old('email') ? old('email') : Auth::user()->email ?? '' }}" class="form-control mb-0 @error('email') is-invalid @enderror">
+                            <input readonly type="text" id="email" name="email" value="{{ old('email') ? old('email') : Auth::user()->email ?? '' }}" class="form-control mb-0 @error('email') is-invalid @enderror">
                             @error('email')
                             <div class="text-danger">{{ $message }}</div>
                             @enderror
