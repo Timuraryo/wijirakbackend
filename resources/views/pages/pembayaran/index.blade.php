@@ -1,7 +1,7 @@
 @extends('layouts.default')
 
 @section('title')
-    Lihat Barang - Shayna
+    Lihat Pembayaran -WIJIRAK
 @endsection
 
 @section('content')
@@ -10,7 +10,7 @@
         <div class="col-12">
             <div class="card">
                 <div class="card-body">
-                    <h4 class="box-title">Daftar Barang</h4>
+                    <h4 class="box-title">Daftar Pembayaran</h4>
                 </div>
                 <div class="card-body--">
                     <div class="table-stats order-table ov-h">
