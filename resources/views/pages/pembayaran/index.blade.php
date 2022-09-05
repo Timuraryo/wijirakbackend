@@ -38,7 +38,7 @@
                                 {{-- <td>{{$data->penerima}}</td> --}}
                                 <td>
                                     {{-- get data foto bukti bayar --}}
-                                        <img src="{{ url('/bukti-bayar' . $data->foto) }}" alt="foto" width="100px"/>
+                                        <img src="{{ Storage::url($data->foto)}}" alt="foto" width="100px"/>
                                     {{-- <img src="{{  }}" name="foto" alt=""/> --}}
                                 </td>
                             </tr>
