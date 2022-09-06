@@ -131,7 +131,7 @@ Wiji Rak
                     consectetur adipisicing elit </p>
                 <div class="product-price">
                     $35.00
-                    <span>/ HanBag</span>
+                    <span>/ WIJIRAK</span>
                 </div>
             </div>
             <div class="countdown-timer" id="countdown">
