@@ -167,37 +167,37 @@ Wiji Rak
     <div class="insta-item set-bg" data-setbg="{{ url('frontend/img/insta.jpg') }}">
         <div class="inside-text">
             <i class="ti-instagram"></i>
-            <h5><a href="#">colorlib_Collection</a></h5>
+            <h5><a href="#">wijirak_Collection</a></h5>
         </div>
     </div>
     <div class="insta-item set-bg" data-setbg="{{ url('frontend/img/insta22.jpg') }}">
         <div class="inside-text">
             <i class="ti-instagram"></i>
-            <h5><a href="#">colorlib_Collection</a></h5>
+            <h5><a href="#">wijirak_Collection</a></h5>
         </div>
     </div>
     <div class="insta-item set-bg" data-setbg="{{ url('frontend/img/insta33.jpg') }}">
         <div class="inside-text">
             <i class="ti-instagram"></i>
-            <h5><a href="#">colorlib_Collection</a></h5>
+            <h5><a href="#">wijirak_Collection</a></h5>
         </div>
     </div>
     <div class="insta-item set-bg" data-setbg="{{ url('frontend/img/insta44.jpg') }}">
         <div class="inside-text">
             <i class="ti-instagram"></i>
-            <h5><a href="#">colorlib_Collection</a></h5>
+            <h5><a href="#">wijirak_Collection</a></h5>
         </div>
     </div>
     <div class="insta-item set-bg" data-setbg="{{ url('frontend/img/insta55.jpg') }}">
         <div class="inside-text">
             <i class="ti-instagram"></i>
-            <h5><a href="#">colorlib_Collection</a></h5>
+            <h5><a href="#">wijirak_Collection</a></h5>
         </div>
     </div>
     <div class="insta-item set-bg" data-setbg="{{ url('frontend/img/insta66.jpg') }}">
         <div class="inside-text">
             <i class="ti-instagram"></i>
-            <h5><a href="#">colorlib_Collection</a></h5>
+            <h5><a href="#">wijirak_Collection</a></h5>
         </div>
     </div>
 </div>
@@ -210,27 +210,27 @@ Wiji Rak
         <div class="logo-carousel owl-carousel">
             <div class="logo-item">
                 <div class="tablecell-inner">
-                    <img src="{{ url('frontend/img/logo-carousel/logo-1.png') }}" alt="">
+                    <img src="{{ url('frontend/img/logo-carousel/logo-11.png') }}" alt="">
                 </div>
             </div>
             <div class="logo-item">
                 <div class="tablecell-inner">
-                    <img src="{{ url('frontend/img/logo-carousel/logo-2.png') }}" alt="">
+                    <img src="{{ url('frontend/img/logo-carousel/logo-11.png') }}" alt="">
                 </div>
             </div>
             <div class="logo-item">
                 <div class="tablecell-inner">
-                    <img src="{{ url('frontend/img/logo-carousel/logo-3.png') }}" alt="">
+                    <img src="{{ url('frontend/img/logo-carousel/logo-11.png') }}" alt="">
                 </div>
             </div>
             <div class="logo-item">
                 <div class="tablecell-inner">
-                    <img src="{{ url('frontend/img/logo-carousel/logo-4.png') }}" alt="">
+                    <img src="{{ url('frontend/img/logo-carousel/logo-11.png') }}" alt="">
                 </div>
             </div>
             <div class="logo-item">
                 <div class="tablecell-inner">
-                    <img src="{{ url('frontend/img/logo-carousel/logo-5.png') }}" alt="">
+                    <img src="{{ url('frontend/img/logo-carousel/logo-11.png') }}" alt="">
                 </div>
             </div>
         </div>
